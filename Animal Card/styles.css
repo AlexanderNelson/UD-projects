@@ -1,0 +1,35 @@
+.outerframe {
+    border: 1px solid rgba(214,214,214,1);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(214,214,214,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(214,214,214,1);
+    box-shadow: 10px 10px 5px 0px rgba(214,214,214,1);
+    width: 308px;
+    padding: 8px;
+    margin: 4px;
+}
+
+.innerframe {
+    border: 1px solid rgba(214,214,214,1);
+    padding: 8px 16px;
+    margin: 4px;
+}
+
+img {
+    width: 300px;
+    margin: 4px;
+}
+
+span {
+    font-weight: 900;
+}
+
+ul{
+    list-style: none;
+    padding-left:0;
+}
+
+h3 {
+    margin: 4px;
+}
+
+
